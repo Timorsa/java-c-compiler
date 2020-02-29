@@ -1,2 +1,2 @@
 # C Compiler
- This is for a c compiler written from scratch
+ This is a C compiler written from scratch
